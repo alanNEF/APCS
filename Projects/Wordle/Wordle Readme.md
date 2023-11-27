@@ -1,3 +1,4 @@
+# Wordle
 You will be creating WORDLE….well sort of…no graphics and you don’t need to check to see if the user
 enters a real word.
 
@@ -15,3 +16,6 @@ G G G G G (and then some message that they got the right word).
 
 The user has up to 6 questions…..
 There is more than meets the eye here and I will add on a rubric next week.
+
+### Grade
+100
